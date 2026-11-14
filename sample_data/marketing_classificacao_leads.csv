@@ -1,0 +1,801 @@
+Lead_ID,Origem_Trafego,Dispositivo,Idade,Tempo_No_Site_Min,Paginas_Visitadas,Visualizou_Precos,Baixou_Ebook,Preencheu_Formulario,Abriu_Email,Clicou_Email,Interacoes_Chat,Score_Engajamento,Converteu_Venda
+LEAD_00001,Email Marketing,Mobile,47,0.2,4,1,0,0,0,0,3,66.6,1
+LEAD_00002,Google Ads,Desktop,43,0.5,4,1,0,0,0,0,0,37.5,0
+LEAD_00003,Google Ads,Mobile,33,0.9,5,0,0,0,0,0,0,22.7,0
+LEAD_00004,Organico,Mobile,30,5.3,4,1,0,0,1,1,0,66.9,1
+LEAD_00005,Organico,Mobile,56,4.7,5,0,0,0,1,0,0,34.1,0
+LEAD_00006,LinkedIn Ads,Desktop,50,10.0,7,1,1,0,0,0,0,78.0,0
+LEAD_00007,Organico,Mobile,43,5.9,3,0,0,1,1,1,0,69.7,1
+LEAD_00008,Meta Ads,Mobile,65,3.2,1,1,0,1,1,1,0,73.6,1
+LEAD_00009,Email Marketing,Mobile,18,21.6,7,1,0,0,0,0,2,100.0,0
+LEAD_00010,Meta Ads,Mobile,66,1.4,3,0,1,0,0,0,0,16.2,0
+LEAD_00011,Google Ads,Mobile,55,8.1,4,0,1,0,0,0,0,40.3,0
+LEAD_00012,Organico,Desktop,19,2.5,5,0,0,0,0,0,1,37.5,0
+LEAD_00013,LinkedIn Ads,Mobile,66,4.7,4,0,0,0,0,0,0,30.1,0
+LEAD_00014,Meta Ads,Mobile,23,5.8,3,1,1,0,0,0,0,49.4,0
+LEAD_00015,Google Ads,Mobile,63,4.5,9,1,0,0,0,0,0,69.5,0
+LEAD_00016,Google Ads,Desktop,67,0.7,4,1,0,1,1,0,0,63.1,1
+LEAD_00017,Google Ads,Mobile,55,2.6,2,1,0,0,1,0,0,35.8,0
+LEAD_00018,Meta Ads,Mobile,59,3.7,2,0,0,1,1,1,0,59.1,0
+LEAD_00019,Organico,Mobile,41,8.5,1,1,1,0,1,1,0,64.5,0
+LEAD_00020,Google Ads,Mobile,35,2.6,5,1,0,0,1,0,0,47.8,0
+LEAD_00021,Direto,Mobile,44,11.3,1,0,0,0,1,1,3,82.9,1
+LEAD_00022,Email Marketing,Mobile,58,2.6,10,0,0,1,0,0,0,72.8,1
+LEAD_00023,Organico,Mobile,25,3.6,8,0,1,0,0,0,0,42.8,1
+LEAD_00024,Email Marketing,Mobile,45,7.2,3,1,1,0,1,0,3,83.6,1
+LEAD_00025,Google Ads,Mobile,27,3.9,4,1,1,0,0,0,0,47.7,0
+LEAD_00026,Meta Ads,Mobile,34,14.5,2,1,1,0,0,0,0,71.5,1
+LEAD_00027,Organico,Mobile,46,4.9,5,0,0,0,1,0,0,34.7,0
+LEAD_00028,Email Marketing,Desktop,23,3.3,3,1,1,0,1,0,1,51.9,0
+LEAD_00029,Email Marketing,Tablet,31,0.1,4,0,0,0,1,0,0,16.3,0
+LEAD_00030,Google Ads,Tablet,39,2.4,3,1,1,0,0,0,1,49.2,0
+LEAD_00031,Direto,Desktop,23,1.6,4,0,0,0,0,0,3,50.8,0
+LEAD_00032,Google Ads,Desktop,43,6.2,5,0,0,0,1,1,0,53.6,0
+LEAD_00033,LinkedIn Ads,Desktop,56,1.1,2,1,0,1,0,0,0,56.3,0
+LEAD_00034,Direto,Mobile,29,1.0,4,1,1,0,0,0,0,39.0,0
+LEAD_00035,Google Ads,Desktop,52,0.9,2,0,1,0,0,0,0,10.7,0
+LEAD_00036,Organico,Mobile,31,0.6,4,0,0,0,1,1,0,32.8,0
+LEAD_00037,Google Ads,Mobile,39,1.7,3,0,0,1,1,0,0,42.1,0
+LEAD_00038,Meta Ads,Desktop,40,9.8,4,0,1,0,1,0,1,55.4,0
+LEAD_00039,Meta Ads,Mobile,65,6.7,4,0,0,0,0,0,0,36.1,0
+LEAD_00040,Organico,Mobile,24,6.0,3,1,1,0,0,0,3,80.0,1
+LEAD_00041,Direto,Desktop,57,7.2,8,1,0,0,0,0,1,83.6,0
+LEAD_00042,Organico,Mobile,67,1.4,1,0,0,0,1,1,0,23.2,0
+LEAD_00043,Meta Ads,Mobile,42,9.8,2,0,0,0,0,0,1,47.4,0
+LEAD_00044,Email Marketing,Desktop,30,0.7,5,0,0,1,0,0,0,47.1,0
+LEAD_00045,Direto,Desktop,38,1.8,4,0,0,1,1,1,1,71.4,0
+LEAD_00046,Google Ads,Mobile,58,4.0,5,0,0,1,0,0,0,57.0,0
+LEAD_00047,Direto,Mobile,27,0.5,2,0,0,0,1,0,0,9.5,0
+LEAD_00048,Google Ads,Mobile,26,5.9,5,0,0,1,1,0,1,72.7,0
+LEAD_00049,Email Marketing,Desktop,32,2.2,3,0,0,0,0,0,0,18.6,0
+LEAD_00050,Google Ads,Mobile,19,6.9,5,0,1,0,0,0,1,50.7,1
+LEAD_00051,Google Ads,Mobile,42,3.1,4,0,0,1,0,0,0,50.3,0
+LEAD_00052,Meta Ads,Mobile,30,0.9,4,0,0,0,0,0,0,18.7,0
+LEAD_00053,Organico,Mobile,51,6.0,3,1,0,0,0,0,0,50.0,1
+LEAD_00054,Meta Ads,Tablet,51,1.3,7,1,0,0,1,1,2,86.9,0
+LEAD_00055,Google Ads,Mobile,52,3.0,4,1,1,0,0,0,0,45.0,0
+LEAD_00056,Organico,Desktop,55,0.4,7,0,0,1,1,1,1,79.2,1
+LEAD_00057,LinkedIn Ads,Mobile,20,4.3,8,0,1,0,0,0,1,54.9,0
+LEAD_00058,Meta Ads,Desktop,59,4.9,1,0,0,0,0,0,2,38.7,0
+LEAD_00059,Google Ads,Desktop,23,2.1,4,0,0,0,0,0,1,32.3,0
+LEAD_00060,Meta Ads,Mobile,65,13.9,1,1,0,1,1,0,0,90.7,0
+LEAD_00061,Google Ads,Mobile,66,9.3,3,0,1,0,0,0,2,59.9,0
+LEAD_00062,Email Marketing,Mobile,36,5.5,9,0,1,0,1,1,1,77.5,0
+LEAD_00063,Email Marketing,Desktop,20,5.6,7,1,0,1,1,1,1,100.0,1
+LEAD_00064,Organico,Mobile,35,1.3,6,0,1,0,1,0,0,27.9,0
+LEAD_00065,Meta Ads,Desktop,56,4.8,5,1,0,0,1,1,0,69.4,1
+LEAD_00066,Email Marketing,Desktop,26,1.0,10,0,1,1,0,0,0,68.0,0
+LEAD_00067,Organico,Desktop,29,0.7,5,1,0,0,1,0,0,42.1,0
+LEAD_00068,Email Marketing,Desktop,22,33.9,2,0,0,1,1,0,0,100.0,1
+LEAD_00069,Organico,Mobile,20,4.4,6,1,0,0,1,0,0,57.2,1
+LEAD_00070,Email Marketing,Mobile,28,2.5,6,0,1,1,0,0,0,56.5,0
+LEAD_00071,Organico,Mobile,47,1.5,6,1,1,1,1,0,0,73.5,0
+LEAD_00072,Meta Ads,Desktop,21,4.2,3,0,1,0,0,0,0,24.6,0
+LEAD_00073,Direto,Desktop,22,0.2,4,1,1,0,0,0,0,36.6,0
+LEAD_00074,Meta Ads,Desktop,18,0.4,5,0,0,1,1,1,1,71.2,1
+LEAD_00075,Organico,Mobile,44,0.2,5,0,1,0,1,1,0,35.6,0
+LEAD_00076,Google Ads,Mobile,45,3.1,7,1,1,0,1,1,0,72.3,1
+LEAD_00077,Organico,Desktop,46,4.1,5,1,0,0,1,1,0,67.3,1
+LEAD_00078,Organico,Mobile,35,0.3,7,0,0,1,0,0,0,53.9,0
+LEAD_00079,Google Ads,Mobile,29,5.7,9,1,1,1,0,0,1,100.0,1
+LEAD_00080,Google Ads,Desktop,30,1.2,4,0,1,0,1,1,1,44.6,0
+LEAD_00081,Organico,Mobile,58,5.2,4,1,1,0,0,0,0,51.6,0
+LEAD_00082,Email Marketing,Mobile,19,18.1,4,1,1,1,1,1,0,100.0,1
+LEAD_00083,Meta Ads,Mobile,54,5.3,3,0,1,1,0,0,1,62.9,0
+LEAD_00084,Google Ads,Mobile,62,9.7,2,1,1,0,0,0,0,57.1,0
+LEAD_00085,Organico,Tablet,33,13.3,5,1,1,1,1,0,0,100.0,1
+LEAD_00086,Google Ads,Mobile,65,3.0,4,0,1,1,0,0,0,50.0,0
+LEAD_00087,Meta Ads,Mobile,41,5.5,3,1,0,0,1,1,0,63.5,0
+LEAD_00088,Google Ads,Mobile,52,8.6,3,0,0,1,0,0,0,62.8,0
+LEAD_00089,Google Ads,Desktop,39,2.0,5,1,0,0,0,0,0,46.0,1
+LEAD_00090,Google Ads,Mobile,53,1.4,6,1,1,0,1,1,0,63.2,0
+LEAD_00091,Meta Ads,Mobile,28,13.2,3,0,0,0,0,0,0,51.6,0
+LEAD_00092,Google Ads,Mobile,63,5.8,6,1,0,1,1,1,0,100.0,1
+LEAD_00093,Meta Ads,Mobile,46,1.1,5,1,0,1,0,0,0,68.3,0
+LEAD_00094,Meta Ads,Mobile,52,2.7,5,1,1,0,0,0,0,48.1,0
+LEAD_00095,Meta Ads,Desktop,65,7.2,6,0,0,0,1,0,0,45.6,1
+LEAD_00096,Meta Ads,Desktop,32,3.6,4,0,0,0,1,1,0,41.8,0
+LEAD_00097,Email Marketing,Mobile,48,4.7,2,1,0,1,0,0,1,77.1,0
+LEAD_00098,Google Ads,Mobile,59,6.3,4,0,0,1,1,0,0,59.9,0
+LEAD_00099,Meta Ads,Desktop,58,4.4,1,0,0,0,1,1,0,32.2,0
+LEAD_00100,Google Ads,Mobile,60,3.5,2,1,0,0,0,0,0,38.5,0
+LEAD_00101,Google Ads,Desktop,33,6.2,2,0,0,0,0,0,0,26.6,0
+LEAD_00102,Organico,Mobile,27,5.9,2,1,0,0,1,1,0,60.7,1
+LEAD_00103,Organico,Desktop,66,4.5,2,1,0,0,0,0,0,41.5,0
+LEAD_00104,LinkedIn Ads,Desktop,49,2.0,2,1,0,1,0,0,1,69.0,1
+LEAD_00105,Organico,Desktop,19,2.3,4,0,1,0,1,0,2,42.9,1
+LEAD_00106,Direto,Desktop,41,15.8,6,0,0,0,0,0,0,71.4,1
+LEAD_00107,Google Ads,Mobile,40,0.5,5,0,0,0,1,1,0,36.5,1
+LEAD_00108,Google Ads,Desktop,19,1.4,4,1,0,0,0,0,2,60.2,0
+LEAD_00109,Google Ads,Mobile,55,3.1,1,0,0,0,1,0,0,13.3,0
+LEAD_00110,Google Ads,Mobile,48,8.2,6,1,0,0,1,1,1,93.6,0
+LEAD_00111,Meta Ads,Desktop,57,0.8,4,1,0,0,0,0,0,38.4,0
+LEAD_00112,Organico,Desktop,43,1.5,7,1,0,1,0,0,0,77.5,1
+LEAD_00113,Google Ads,Desktop,46,0.3,6,0,0,0,0,0,0,24.9,0
+LEAD_00114,Direto,Mobile,20,5.5,8,0,0,1,1,1,2,100.0,1
+LEAD_00115,Email Marketing,Desktop,31,1.2,5,1,1,0,0,0,2,63.6,1
+LEAD_00116,Google Ads,Desktop,42,2.2,5,0,0,0,0,0,0,26.6,1
+LEAD_00117,Google Ads,Mobile,65,2.6,5,0,1,0,1,1,1,52.8,1
+LEAD_00118,Google Ads,Mobile,18,10.0,5,0,0,1,1,1,0,90.0,1
+LEAD_00119,Google Ads,Mobile,20,2.4,5,1,1,0,0,0,1,57.2,0
+LEAD_00120,Google Ads,Mobile,43,0.7,4,1,0,0,0,0,1,48.1,1
+LEAD_00121,Meta Ads,Tablet,35,3.3,8,0,1,1,1,0,0,66.9,1
+LEAD_00122,Google Ads,Desktop,26,14.8,4,1,0,0,1,0,0,80.4,0
+LEAD_00123,Meta Ads,Desktop,55,4.2,6,0,0,1,0,0,2,81.6,1
+LEAD_00124,Direto,Tablet,40,18.4,4,1,0,0,0,0,2,100.0,0
+LEAD_00125,Organico,Mobile,38,8.3,2,0,0,0,1,1,0,47.9,0
+LEAD_00126,Direto,Desktop,18,0.2,4,1,1,0,1,1,0,51.6,0
+LEAD_00127,Google Ads,Mobile,38,4.8,4,0,1,1,1,0,3,85.4,1
+LEAD_00128,Meta Ads,Desktop,44,1.5,3,0,0,0,0,0,0,16.5,0
+LEAD_00129,Organico,Mobile,59,3.7,4,0,0,0,0,0,0,27.1,0
+LEAD_00130,Google Ads,Desktop,23,1.5,8,0,0,0,1,0,0,36.5,0
+LEAD_00131,Google Ads,Mobile,61,1.9,4,1,1,0,0,0,2,61.7,1
+LEAD_00132,Organico,Mobile,53,11.5,3,0,0,0,0,0,0,46.5,0
+LEAD_00133,Organico,Desktop,45,1.0,7,0,0,0,0,0,0,31.0,0
+LEAD_00134,Meta Ads,Mobile,62,9.3,7,0,1,0,0,0,0,55.9,0
+LEAD_00135,Meta Ads,Desktop,34,0.1,3,0,0,0,0,0,2,32.3,0
+LEAD_00136,Meta Ads,Mobile,57,0.4,3,0,1,0,1,1,1,38.2,0
+LEAD_00137,Google Ads,Desktop,20,8.7,8,0,0,0,1,1,1,83.1,0
+LEAD_00138,Meta Ads,Mobile,29,4.5,4,0,0,0,1,0,0,29.5,0
+LEAD_00139,Google Ads,Mobile,56,6.2,3,0,0,0,1,1,2,65.6,1
+LEAD_00140,Google Ads,Mobile,29,1.1,2,0,1,1,0,0,1,46.3,0
+LEAD_00141,Direto,Mobile,19,3.5,3,1,0,0,0,0,1,52.5,0
+LEAD_00142,Organico,Mobile,63,6.0,5,1,0,1,0,0,3,100.0,1
+LEAD_00143,Organico,Mobile,39,4.4,3,0,0,0,0,0,0,25.2,0
+LEAD_00144,Meta Ads,Mobile,40,2.9,7,1,1,0,1,0,0,56.7,0
+LEAD_00145,Meta Ads,Mobile,47,14.5,9,1,0,0,0,0,2,100.0,1
+LEAD_00146,Google Ads,Mobile,22,5.1,3,0,0,0,0,0,1,37.3,0
+LEAD_00147,Google Ads,Desktop,26,10.7,4,1,0,0,1,0,0,68.1,0
+LEAD_00148,Google Ads,Mobile,38,5.9,1,0,1,1,0,0,0,46.7,0
+LEAD_00149,Email Marketing,Mobile,28,6.0,2,1,1,1,1,0,1,81.0,0
+LEAD_00150,Organico,Desktop,22,0.4,1,0,0,0,1,1,0,20.2,0
+LEAD_00151,Meta Ads,Mobile,52,2.0,5,0,0,0,0,0,0,26.0,0
+LEAD_00152,Meta Ads,Desktop,44,8.8,5,0,1,1,0,0,2,91.4,1
+LEAD_00153,LinkedIn Ads,Mobile,66,1.2,7,1,1,0,1,0,0,51.6,0
+LEAD_00154,Google Ads,Mobile,19,0.6,5,1,0,0,0,0,0,41.8,1
+LEAD_00155,Google Ads,Mobile,41,1.8,3,0,1,0,0,0,1,27.4,0
+LEAD_00156,Meta Ads,Desktop,48,1.1,4,0,0,0,0,0,0,19.3,0
+LEAD_00157,Email Marketing,Desktop,50,11.7,4,0,0,0,0,0,0,51.1,1
+LEAD_00158,Direto,Mobile,56,9.1,3,0,1,1,0,0,0,64.3,1
+LEAD_00159,Google Ads,Mobile,47,3.1,4,0,0,1,1,1,0,65.3,1
+LEAD_00160,LinkedIn Ads,Tablet,63,0.3,4,0,1,0,1,0,0,16.9,0
+LEAD_00161,Email Marketing,Mobile,54,5.6,7,1,0,1,1,0,0,89.8,1
+LEAD_00162,Google Ads,Mobile,45,4.4,6,1,0,0,0,0,0,57.2,1
+LEAD_00163,Meta Ads,Desktop,48,15.9,4,0,1,0,0,0,0,63.7,1
+LEAD_00164,Meta Ads,Desktop,28,3.7,6,0,0,1,0,0,0,60.1,1
+LEAD_00165,Direto,Mobile,40,1.8,5,1,0,0,0,0,2,65.4,1
+LEAD_00166,Google Ads,Desktop,19,3.3,1,1,1,0,0,0,0,33.9,0
+LEAD_00167,Email Marketing,Desktop,57,17.4,3,1,0,0,0,0,1,94.2,0
+LEAD_00168,Meta Ads,Mobile,58,5.4,2,1,0,1,1,1,0,84.2,0
+LEAD_00169,Email Marketing,Mobile,44,5.0,7,1,1,1,1,0,1,98.0,1
+LEAD_00170,Meta Ads,Mobile,52,1.2,7,0,0,1,1,0,0,56.6,0
+LEAD_00171,Organico,Tablet,19,6.1,3,0,1,0,1,0,0,30.3,0
+LEAD_00172,Email Marketing,Desktop,56,6.2,4,1,1,1,0,0,0,79.6,1
+LEAD_00173,Email Marketing,Mobile,54,1.7,4,0,0,0,0,0,0,21.1,0
+LEAD_00174,LinkedIn Ads,Desktop,38,3.0,7,0,0,1,0,0,0,62.0,0
+LEAD_00175,Google Ads,Mobile,22,1.6,1,0,1,0,0,0,0,8.8,0
+LEAD_00176,Organico,Mobile,62,1.3,6,1,0,0,0,0,2,67.9,0
+LEAD_00177,Google Ads,Mobile,38,0.1,4,1,0,0,0,0,0,36.3,0
+LEAD_00178,Meta Ads,Mobile,46,1.5,3,0,0,1,1,0,0,41.5,0
+LEAD_00179,Meta Ads,Desktop,37,3.6,5,0,0,1,1,1,0,70.8,0
+LEAD_00180,Meta Ads,Mobile,55,0.0,6,1,0,0,1,1,2,79.0,1
+LEAD_00181,Meta Ads,Desktop,37,1.5,2,0,1,0,0,0,0,12.5,0
+LEAD_00182,Direto,Mobile,67,9.6,3,0,1,1,1,1,0,80.8,1
+LEAD_00183,Google Ads,Mobile,42,4.1,4,1,0,0,0,0,0,48.3,0
+LEAD_00184,Organico,Tablet,19,4.2,6,0,0,1,1,1,0,76.6,0
+LEAD_00185,Meta Ads,Mobile,49,2.3,4,0,1,1,0,0,1,57.9,0
+LEAD_00186,Google Ads,Mobile,43,5.1,5,1,0,0,1,0,1,65.3,1
+LEAD_00187,Google Ads,Mobile,23,0.9,5,0,1,0,1,0,0,22.7,0
+LEAD_00188,Direto,Desktop,58,7.7,2,1,1,0,0,0,0,51.1,1
+LEAD_00189,LinkedIn Ads,Mobile,20,0.6,1,0,1,0,0,0,0,5.8,0
+LEAD_00190,LinkedIn Ads,Mobile,50,4.8,4,0,0,0,0,0,0,30.4,0
+LEAD_00191,Direto,Mobile,18,1.9,2,0,0,1,1,0,1,48.7,0
+LEAD_00192,Google Ads,Mobile,22,6.2,2,0,0,0,1,1,0,41.6,0
+LEAD_00193,Meta Ads,Desktop,30,3.6,5,1,0,0,0,0,0,50.8,0
+LEAD_00194,Organico,Mobile,36,2.7,1,1,0,0,0,0,1,42.1,0
+LEAD_00195,Meta Ads,Mobile,29,0.8,4,1,1,0,1,0,0,38.4,0
+LEAD_00196,Meta Ads,Mobile,65,4.6,9,0,1,1,0,0,3,100.0,0
+LEAD_00197,Meta Ads,Mobile,42,16.6,6,1,1,0,0,0,1,100.0,0
+LEAD_00198,Organico,Desktop,52,7.9,5,0,1,0,0,0,1,53.7,0
+LEAD_00199,Organico,Mobile,29,0.3,1,1,0,1,1,1,0,64.9,0
+LEAD_00200,Google Ads,Tablet,47,2.1,3,1,0,0,1,0,2,58.3,1
+LEAD_00201,Meta Ads,Mobile,22,11.7,3,0,0,0,0,0,1,57.1,0
+LEAD_00202,Organico,Mobile,51,3.1,1,0,0,0,1,0,0,13.3,0
+LEAD_00203,Organico,Desktop,39,4.9,6,0,0,1,1,1,0,78.7,1
+LEAD_00204,Google Ads,Mobile,56,11.0,2,0,1,0,0,0,0,41.0,0
+LEAD_00205,Email Marketing,Desktop,30,9.3,5,1,1,1,1,1,3,100.0,1
+LEAD_00206,Google Ads,Tablet,64,3.1,2,0,0,1,0,0,1,52.3,0
+LEAD_00207,Meta Ads,Mobile,20,2.6,4,0,0,0,1,1,2,58.8,0
+LEAD_00208,Email Marketing,Mobile,37,1.9,5,0,0,0,0,0,1,35.7,0
+LEAD_00209,Organico,Desktop,48,5.7,5,1,0,0,1,0,0,57.1,1
+LEAD_00210,Google Ads,Mobile,22,1.5,1,0,0,0,0,0,0,8.5,0
+LEAD_00211,Organico,Mobile,41,1.3,3,0,1,0,1,1,0,30.9,0
+LEAD_00212,Organico,Mobile,57,2.0,7,0,1,0,0,0,0,34.0,0
+LEAD_00213,Email Marketing,Mobile,50,0.9,4,1,0,0,1,1,0,53.7,1
+LEAD_00214,Email Marketing,Desktop,25,5.3,4,0,1,1,0,0,2,76.9,0
+LEAD_00215,Organico,Mobile,41,4.3,3,1,0,0,1,1,3,89.9,1
+LEAD_00216,Meta Ads,Mobile,67,3.0,12,0,1,0,1,1,0,72.0,0
+LEAD_00217,Google Ads,Desktop,37,2.2,1,0,0,0,0,0,1,20.6,0
+LEAD_00218,Google Ads,Mobile,33,10.8,2,0,1,0,1,0,0,40.4,0
+LEAD_00219,Meta Ads,Mobile,67,0.1,7,0,1,1,0,0,0,53.3,0
+LEAD_00220,Organico,Desktop,29,6.6,2,0,1,0,1,1,1,52.8,0
+LEAD_00221,Meta Ads,Mobile,30,10.4,3,0,0,0,1,0,0,43.2,1
+LEAD_00222,Google Ads,Desktop,62,2.7,4,1,1,0,0,0,2,64.1,0
+LEAD_00223,Google Ads,Desktop,59,3.6,1,0,0,0,1,0,1,24.8,0
+LEAD_00224,Meta Ads,Mobile,56,13.0,4,0,0,0,0,0,1,65.0,0
+LEAD_00225,Google Ads,Mobile,42,1.1,9,1,0,0,0,0,0,59.3,0
+LEAD_00226,Email Marketing,Mobile,63,3.3,3,0,1,1,1,0,0,46.9,0
+LEAD_00227,Google Ads,Mobile,49,2.9,6,1,1,1,1,1,0,92.7,1
+LEAD_00228,Organico,Desktop,41,1.3,5,1,0,0,0,0,1,53.9,0
+LEAD_00229,Direto,Desktop,65,7.7,3,0,0,0,0,0,2,55.1,1
+LEAD_00230,Google Ads,Mobile,64,10.3,2,1,1,0,1,1,0,73.9,0
+LEAD_00231,Meta Ads,Desktop,61,6.9,10,0,0,0,0,0,1,70.7,0
+LEAD_00232,Google Ads,Desktop,26,1.0,2,0,0,0,1,1,0,26.0,0
+LEAD_00233,Organico,Tablet,57,0.4,6,0,0,0,1,0,0,25.2,0
+LEAD_00234,Organico,Mobile,67,4.2,4,0,1,0,0,0,1,38.6,0
+LEAD_00235,Meta Ads,Mobile,40,0.3,8,0,0,0,0,0,1,42.9,0
+LEAD_00236,Meta Ads,Mobile,67,5.0,7,0,1,0,0,0,0,43.0,0
+LEAD_00237,LinkedIn Ads,Tablet,30,3.4,1,0,0,0,0,0,0,14.2,0
+LEAD_00238,Google Ads,Mobile,49,4.9,3,0,0,1,1,1,0,66.7,0
+LEAD_00239,Google Ads,Mobile,67,4.0,3,0,0,0,1,0,0,24.0,0
+LEAD_00240,LinkedIn Ads,Mobile,32,2.5,3,0,0,0,1,1,2,54.5,1
+LEAD_00241,Organico,Mobile,53,1.0,3,0,0,1,0,0,0,40.0,1
+LEAD_00242,LinkedIn Ads,Mobile,66,1.6,4,0,0,0,0,0,0,20.8,0
+LEAD_00243,Organico,Tablet,22,3.3,7,1,1,1,1,0,0,82.9,0
+LEAD_00244,Email Marketing,Mobile,39,4.7,8,0,0,0,1,0,2,66.1,0
+LEAD_00245,Meta Ads,Mobile,33,6.8,4,1,1,0,1,1,1,81.4,1
+LEAD_00246,Email Marketing,Mobile,58,6.6,1,1,1,0,0,0,1,53.8,0
+LEAD_00247,LinkedIn Ads,Mobile,27,16.2,6,0,1,0,1,1,0,87.6,1
+LEAD_00248,Organico,Mobile,41,1.5,3,1,1,1,0,0,2,81.5,1
+LEAD_00249,Google Ads,Mobile,35,0.3,1,0,0,1,1,1,0,44.9,1
+LEAD_00250,Google Ads,Mobile,66,1.9,1,0,0,1,1,0,1,44.7,0
+LEAD_00251,Google Ads,Mobile,35,6.1,6,1,1,0,1,0,2,82.3,1
+LEAD_00252,Google Ads,Mobile,24,2.6,3,0,1,0,0,0,0,19.8,0
+LEAD_00253,Meta Ads,Mobile,21,7.7,7,1,1,0,1,0,0,71.1,1
+LEAD_00254,Organico,Tablet,43,3.6,6,0,1,0,0,0,0,34.8,1
+LEAD_00255,Organico,Desktop,22,12.0,3,0,0,1,1,0,0,73.0,0
+LEAD_00256,Meta Ads,Mobile,33,13.3,4,0,0,0,0,0,0,55.9,0
+LEAD_00257,Organico,Mobile,52,0.3,4,0,1,0,0,0,2,36.9,0
+LEAD_00258,Google Ads,Desktop,43,2.7,4,0,0,0,0,0,0,24.1,0
+LEAD_00259,Google Ads,Mobile,35,4.2,3,0,0,1,1,1,0,64.6,0
+LEAD_00260,Google Ads,Desktop,46,1.3,7,1,0,1,1,1,1,100.0,1
+LEAD_00261,Meta Ads,Desktop,40,2.4,7,0,0,0,1,1,3,80.2,0
+LEAD_00262,Google Ads,Mobile,31,5.1,4,0,0,0,1,0,0,31.3,0
+LEAD_00263,Google Ads,Mobile,32,1.2,6,0,1,0,1,0,0,27.6,0
+LEAD_00264,Meta Ads,Tablet,66,4.1,2,1,1,0,0,0,0,40.3,0
+LEAD_00265,Email Marketing,Mobile,50,5.4,3,0,1,1,1,1,0,68.2,1
+LEAD_00266,Google Ads,Mobile,42,0.4,3,0,0,0,1,1,0,28.2,0
+LEAD_00267,Organico,Mobile,38,3.1,3,1,1,0,0,0,0,41.3,0
+LEAD_00268,Organico,Mobile,34,1.4,2,0,0,0,0,0,0,12.2,0
+LEAD_00269,Email Marketing,Desktop,40,5.8,2,0,1,0,0,0,0,25.4,0
+LEAD_00270,Direto,Desktop,60,0.9,4,1,0,1,0,0,0,63.7,0
+LEAD_00271,Google Ads,Tablet,34,10.0,3,1,0,0,0,0,0,62.0,0
+LEAD_00272,Google Ads,Mobile,31,2.5,3,0,0,0,0,0,0,19.5,1
+LEAD_00273,LinkedIn Ads,Mobile,46,1.0,1,0,1,1,1,0,0,32.0,0
+LEAD_00274,Meta Ads,Mobile,37,2.6,6,1,0,0,0,0,0,51.8,1
+LEAD_00275,Organico,Mobile,47,2.4,3,0,0,1,0,0,1,54.2,0
+LEAD_00276,Organico,Mobile,36,2.5,8,1,0,0,1,1,0,74.5,0
+LEAD_00277,Organico,Tablet,56,4.0,8,0,0,0,0,0,1,54.0,0
+LEAD_00278,Direto,Desktop,30,3.3,8,0,0,0,0,0,0,41.9,0
+LEAD_00279,Direto,Mobile,35,0.7,6,0,0,0,1,0,0,26.1,0
+LEAD_00280,Organico,Desktop,40,0.3,8,1,0,0,0,0,0,52.9,0
+LEAD_00281,Google Ads,Mobile,63,5.9,7,1,0,0,0,0,0,65.7,1
+LEAD_00282,LinkedIn Ads,Mobile,50,3.7,3,1,0,0,0,0,1,53.1,0
+LEAD_00283,Google Ads,Desktop,56,2.0,2,1,0,0,1,0,0,34.0,0
+LEAD_00284,Google Ads,Mobile,57,7.4,1,0,1,0,1,1,0,41.2,0
+LEAD_00285,LinkedIn Ads,Tablet,35,2.2,2,0,0,1,1,1,0,54.6,0
+LEAD_00286,Google Ads,Desktop,26,7.2,3,1,0,0,1,0,3,83.6,1
+LEAD_00287,Google Ads,Mobile,50,1.6,9,1,0,0,1,1,1,85.8,1
+LEAD_00288,Google Ads,Desktop,49,0.3,2,1,0,1,1,1,1,78.9,1
+LEAD_00289,LinkedIn Ads,Mobile,34,12.1,1,1,0,0,1,1,0,75.3,1
+LEAD_00290,Meta Ads,Mobile,36,2.3,1,0,0,0,0,0,3,40.9,0
+LEAD_00291,Organico,Mobile,44,7.1,3,0,0,0,0,0,3,63.3,0
+LEAD_00292,Google Ads,Mobile,23,1.5,9,1,0,0,1,0,0,60.5,0
+LEAD_00293,Email Marketing,Desktop,52,4.7,6,0,1,0,1,1,0,53.1,1
+LEAD_00294,Email Marketing,Mobile,54,9.3,1,0,1,1,1,0,0,56.9,1
+LEAD_00295,Meta Ads,Desktop,51,0.2,10,1,1,1,0,0,0,85.6,1
+LEAD_00296,Meta Ads,Mobile,37,8.0,5,0,0,0,1,1,0,59.0,0
+LEAD_00297,Google Ads,Mobile,42,3.8,3,1,1,0,1,0,0,43.4,1
+LEAD_00298,Direto,Desktop,21,4.2,2,0,1,0,0,0,2,40.6,0
+LEAD_00299,Organico,Mobile,27,3.3,2,1,1,1,1,0,0,62.9,0
+LEAD_00300,Direto,Mobile,27,9.3,8,1,0,0,1,0,1,89.9,1
+LEAD_00301,Meta Ads,Mobile,41,0.2,4,0,0,0,0,0,0,16.6,0
+LEAD_00302,Email Marketing,Mobile,38,1.4,4,0,0,0,0,0,1,30.2,0
+LEAD_00303,Email Marketing,Mobile,28,9.4,2,0,0,0,0,0,0,36.2,0
+LEAD_00304,Organico,Desktop,44,6.3,5,0,0,0,0,0,0,38.9,0
+LEAD_00305,Direto,Mobile,33,0.1,3,0,1,0,1,1,0,27.3,0
+LEAD_00306,Meta Ads,Mobile,43,3.3,5,1,1,1,0,0,0,74.9,1
+LEAD_00307,Google Ads,Tablet,47,3.4,2,0,0,0,0,0,2,38.2,0
+LEAD_00308,Organico,Mobile,66,2.3,2,0,0,0,0,0,0,14.9,0
+LEAD_00309,Organico,Desktop,33,1.6,5,0,0,1,0,0,0,49.8,0
+LEAD_00310,Organico,Mobile,24,5.2,1,1,0,0,0,0,0,39.6,0
+LEAD_00311,Google Ads,Mobile,33,1.0,4,0,0,0,0,0,1,29.0,0
+LEAD_00312,Meta Ads,Desktop,52,7.2,4,1,0,0,1,1,0,72.6,1
+LEAD_00313,Meta Ads,Mobile,33,7.3,4,1,0,0,1,0,0,57.9,0
+LEAD_00314,Meta Ads,Desktop,57,2.4,2,1,1,0,0,0,0,35.2,1
+LEAD_00315,Organico,Mobile,29,1.5,3,1,0,1,0,0,0,61.5,0
+LEAD_00316,Email Marketing,Mobile,52,1.5,5,0,0,1,0,0,2,69.5,0
+LEAD_00317,Google Ads,Mobile,66,3.0,5,1,0,0,0,0,0,49.0,0
+LEAD_00318,Meta Ads,Mobile,38,5.7,1,0,0,0,1,0,1,31.1,0
+LEAD_00319,Google Ads,Desktop,67,2.0,6,1,0,0,1,1,0,65.0,1
+LEAD_00320,Google Ads,Mobile,60,4.2,2,1,0,0,1,1,0,55.6,0
+LEAD_00321,Email Marketing,Tablet,53,2.2,1,0,0,0,0,0,0,10.6,0
+LEAD_00322,LinkedIn Ads,Tablet,65,1.6,4,0,0,0,1,0,0,20.8,0
+LEAD_00323,Meta Ads,Mobile,34,0.1,6,0,1,0,0,0,0,24.3,0
+LEAD_00324,Email Marketing,Mobile,49,0.0,3,1,0,0,1,1,0,47.0,0
+LEAD_00325,LinkedIn Ads,Desktop,58,1.2,8,0,0,0,1,0,0,35.6,0
+LEAD_00326,Email Marketing,Tablet,23,2.3,3,0,0,0,1,1,0,33.9,0
+LEAD_00327,Google Ads,Mobile,41,8.6,4,0,1,0,0,0,0,41.8,0
+LEAD_00328,Direto,Mobile,44,7.2,6,0,0,1,0,0,1,80.6,0
+LEAD_00329,Meta Ads,Mobile,37,1.4,2,1,0,0,1,1,1,57.2,0
+LEAD_00330,Meta Ads,Desktop,42,1.3,2,1,1,1,0,0,0,56.9,1
+LEAD_00331,Google Ads,Mobile,19,1.2,4,0,0,1,0,0,0,44.6,0
+LEAD_00332,Meta Ads,Desktop,26,1.9,4,0,0,1,1,0,0,46.7,1
+LEAD_00333,Google Ads,Mobile,45,3.1,1,0,0,0,0,0,3,43.3,0
+LEAD_00334,Google Ads,Mobile,55,2.6,4,0,1,1,1,1,1,73.8,1
+LEAD_00335,Meta Ads,Mobile,20,1.1,2,1,1,0,0,0,0,31.3,0
+LEAD_00336,Email Marketing,Mobile,37,0.6,2,0,1,0,1,1,0,24.8,0
+LEAD_00337,LinkedIn Ads,Mobile,23,0.1,4,0,1,0,0,0,0,16.3,0
+LEAD_00338,Meta Ads,Mobile,56,0.8,5,1,1,0,1,1,0,57.4,0
+LEAD_00339,LinkedIn Ads,Mobile,50,5.5,4,1,0,0,0,0,1,62.5,0
+LEAD_00340,LinkedIn Ads,Mobile,18,1.3,3,0,1,0,1,1,0,30.9,0
+LEAD_00341,Email Marketing,Mobile,54,2.8,3,0,0,0,1,1,2,55.4,1
+LEAD_00342,Google Ads,Tablet,23,4.0,5,0,0,0,0,0,0,32.0,0
+LEAD_00343,Organico,Mobile,62,9.8,5,1,0,0,0,0,0,69.4,0
+LEAD_00344,Direto,Mobile,51,9.9,4,1,0,0,0,0,0,65.7,0
+LEAD_00345,Organico,Mobile,64,6.2,4,0,1,1,0,0,0,59.6,1
+LEAD_00346,Meta Ads,Tablet,32,0.2,7,0,0,0,1,1,2,63.6,1
+LEAD_00347,Meta Ads,Mobile,62,3.9,5,1,0,0,0,0,0,51.7,0
+LEAD_00348,Organico,Desktop,43,7.0,7,1,0,1,1,1,0,100.0,1
+LEAD_00349,Meta Ads,Desktop,31,0.1,7,1,1,0,1,1,1,73.3,0
+LEAD_00350,Google Ads,Desktop,24,3.6,6,0,1,0,0,0,0,34.8,0
+LEAD_00351,Meta Ads,Mobile,63,8.8,2,0,0,1,1,1,0,74.4,0
+LEAD_00352,Email Marketing,Desktop,48,2.9,6,0,0,1,0,0,3,87.7,0
+LEAD_00353,LinkedIn Ads,Mobile,41,0.0,6,0,0,0,0,0,0,24.0,0
+LEAD_00354,Google Ads,Mobile,48,0.0,6,0,0,0,0,0,0,24.0,0
+LEAD_00355,Direto,Desktop,46,2.4,5,0,0,1,1,0,1,62.2,0
+LEAD_00356,Meta Ads,Mobile,59,0.8,1,0,1,0,0,0,0,6.4,0
+LEAD_00357,Organico,Desktop,49,4.9,3,1,0,0,1,1,0,61.7,0
+LEAD_00358,Email Marketing,Mobile,34,5.6,6,0,0,0,0,0,0,40.8,0
+LEAD_00359,Email Marketing,Desktop,31,0.9,5,1,0,0,1,1,0,57.7,0
+LEAD_00360,Direto,Mobile,57,9.9,4,0,0,1,1,0,3,100.0,1
+LEAD_00361,Meta Ads,Mobile,53,2.6,7,1,0,1,0,0,0,80.8,1
+LEAD_00362,LinkedIn Ads,Mobile,65,0.7,8,0,0,0,1,1,0,49.1,0
+LEAD_00363,Google Ads,Tablet,41,6.5,3,1,0,0,1,0,0,51.5,0
+LEAD_00364,Organico,Mobile,62,7.0,4,0,1,0,0,0,0,37.0,0
+LEAD_00365,Email Marketing,Mobile,44,4.6,10,0,0,1,0,0,0,78.8,1
+LEAD_00366,Organico,Mobile,42,8.6,1,1,0,0,0,0,0,49.8,0
+LEAD_00367,Google Ads,Desktop,49,6.0,3,0,0,1,1,0,1,65.0,1
+LEAD_00368,LinkedIn Ads,Mobile,35,9.6,6,0,1,1,1,1,0,92.8,0
+LEAD_00369,Google Ads,Mobile,63,2.6,2,1,0,0,0,0,1,45.8,0
+LEAD_00370,Google Ads,Mobile,35,6.2,7,1,0,0,0,0,0,66.6,0
+LEAD_00371,Organico,Mobile,54,37.4,2,0,1,0,0,0,0,100.0,0
+LEAD_00372,Meta Ads,Mobile,43,5.8,4,0,0,1,1,1,0,73.4,1
+LEAD_00373,Email Marketing,Mobile,26,0.5,9,0,0,0,1,1,0,52.5,0
+LEAD_00374,Meta Ads,Desktop,52,3.3,7,0,1,1,1,0,0,62.9,0
+LEAD_00375,Google Ads,Mobile,25,4.0,3,1,0,0,0,0,0,44.0,0
+LEAD_00376,Email Marketing,Mobile,37,0.9,4,0,1,0,0,0,0,18.7,0
+LEAD_00377,Meta Ads,Mobile,59,14.8,6,0,0,0,0,0,1,78.4,0
+LEAD_00378,Google Ads,Tablet,39,0.9,3,1,0,0,1,1,0,49.7,1
+LEAD_00379,Organico,Tablet,36,0.9,4,0,1,1,0,0,2,63.7,0
+LEAD_00380,Meta Ads,Desktop,47,11.1,4,1,1,0,0,0,0,69.3,0
+LEAD_00381,Organico,Mobile,45,2.8,2,0,1,0,1,1,2,51.4,1
+LEAD_00382,Meta Ads,Mobile,52,0.3,6,0,0,0,0,0,0,24.9,0
+LEAD_00383,Email Marketing,Mobile,60,4.1,1,1,0,0,0,0,2,56.3,1
+LEAD_00384,Email Marketing,Mobile,28,4.1,3,0,0,0,1,1,0,39.3,0
+LEAD_00385,Organico,Mobile,48,0.3,6,0,0,0,0,0,0,24.9,0
+LEAD_00386,Google Ads,Desktop,66,16.2,5,0,0,0,0,0,2,88.6,1
+LEAD_00387,Email Marketing,Desktop,65,3.5,5,0,0,0,0,0,0,30.5,0
+LEAD_00388,Organico,Desktop,56,3.7,5,0,0,1,0,0,0,56.1,0
+LEAD_00389,Organico,Mobile,53,3.3,2,0,0,0,0,0,1,27.9,0
+LEAD_00390,Meta Ads,Desktop,47,4.2,4,0,0,0,1,1,0,43.6,0
+LEAD_00391,LinkedIn Ads,Mobile,40,1.4,6,0,1,0,0,0,0,28.2,0
+LEAD_00392,Organico,Mobile,36,1.5,4,1,1,0,1,1,0,55.5,0
+LEAD_00393,Google Ads,Desktop,29,3.2,3,0,0,0,0,0,1,31.6,0
+LEAD_00394,Meta Ads,Mobile,32,7.4,4,0,1,0,0,0,0,38.2,0
+LEAD_00395,LinkedIn Ads,Mobile,48,0.2,1,1,0,1,0,0,2,69.6,1
+LEAD_00396,Google Ads,Mobile,60,4.2,3,0,1,0,0,0,1,34.6,0
+LEAD_00397,Direto,Desktop,54,7.4,3,1,0,0,0,0,1,64.2,0
+LEAD_00398,Organico,Desktop,54,0.8,7,1,0,0,0,0,0,50.4,0
+LEAD_00399,Organico,Mobile,32,0.1,5,0,1,1,0,0,2,65.3,0
+LEAD_00400,Google Ads,Desktop,46,1.7,6,0,0,0,0,0,0,29.1,0
+LEAD_00401,Google Ads,Mobile,67,4.0,3,1,1,0,1,0,1,54.0,1
+LEAD_00402,Direto,Mobile,60,0.7,12,0,1,0,0,0,0,50.1,0
+LEAD_00403,Google Ads,Desktop,43,2.5,8,1,1,0,0,0,1,69.5,0
+LEAD_00404,Email Marketing,Desktop,61,3.6,1,0,0,0,0,0,0,14.8,0
+LEAD_00405,Meta Ads,Tablet,19,4.1,1,0,0,1,0,0,0,41.3,1
+LEAD_00406,Google Ads,Mobile,37,1.4,3,0,0,0,1,1,0,31.2,0
+LEAD_00407,Google Ads,Desktop,32,2.3,5,0,1,0,1,0,0,26.9,0
+LEAD_00408,Meta Ads,Desktop,21,6.8,8,0,0,0,0,0,0,52.4,0
+LEAD_00409,Direto,Desktop,39,12.8,5,1,0,0,0,0,0,78.4,1
+LEAD_00410,Meta Ads,Mobile,67,8.9,7,1,0,0,1,0,0,74.7,1
+LEAD_00411,Meta Ads,Desktop,55,3.7,3,1,0,1,0,0,0,68.1,1
+LEAD_00412,Meta Ads,Mobile,40,2.4,7,0,0,1,0,0,0,60.2,0
+LEAD_00413,Meta Ads,Mobile,43,1.8,6,1,0,1,0,0,0,74.4,0
+LEAD_00414,Meta Ads,Mobile,28,0.6,5,1,1,1,0,0,1,76.8,1
+LEAD_00415,LinkedIn Ads,Mobile,45,0.5,3,1,0,0,0,0,2,53.5,0
+LEAD_00416,Meta Ads,Mobile,19,5.2,2,0,1,0,1,1,0,38.6,0
+LEAD_00417,Meta Ads,Desktop,25,1.4,7,1,1,0,1,1,0,67.2,0
+LEAD_00418,Google Ads,Mobile,46,1.3,5,1,0,0,1,0,0,43.9,0
+LEAD_00419,Direto,Desktop,28,28.4,1,0,0,1,0,0,1,100.0,1
+LEAD_00420,Google Ads,Mobile,54,0.9,5,1,0,1,0,0,1,77.7,0
+LEAD_00421,Google Ads,Mobile,35,0.7,3,0,0,1,1,0,0,39.1,0
+LEAD_00422,Organico,Mobile,67,0.5,3,0,1,0,1,0,0,13.5,0
+LEAD_00423,Organico,Mobile,31,3.9,4,1,0,0,0,0,1,57.7,1
+LEAD_00424,Meta Ads,Mobile,27,4.4,2,0,0,0,1,0,0,21.2,0
+LEAD_00425,Meta Ads,Mobile,52,2.0,1,1,0,0,0,0,0,30.0,0
+LEAD_00426,Email Marketing,Mobile,26,3.4,2,1,1,0,1,1,0,53.2,0
+LEAD_00427,Google Ads,Mobile,52,7.0,3,0,0,0,0,0,0,33.0,0
+LEAD_00428,Email Marketing,Mobile,28,7.7,3,0,0,1,0,0,0,60.1,0
+LEAD_00429,Organico,Mobile,61,14.3,3,1,0,1,0,0,1,100.0,1
+LEAD_00430,Meta Ads,Mobile,29,7.8,4,1,1,0,1,1,2,94.4,0
+LEAD_00431,Meta Ads,Desktop,20,3.7,4,1,0,0,0,0,0,47.1,0
+LEAD_00432,Google Ads,Desktop,56,0.9,7,1,0,0,1,1,3,95.7,1
+LEAD_00433,Email Marketing,Desktop,31,0.5,4,0,0,0,1,1,1,42.5,0
+LEAD_00434,Meta Ads,Mobile,45,0.3,1,0,1,1,1,0,0,29.9,0
+LEAD_00435,Meta Ads,Desktop,28,4.9,3,1,0,0,1,0,2,66.7,0
+LEAD_00436,Organico,Desktop,56,7.4,5,0,1,0,1,1,1,67.2,0
+LEAD_00437,Direto,Desktop,42,3.2,4,0,0,0,1,1,0,40.6,0
+LEAD_00438,Meta Ads,Mobile,38,0.3,5,1,0,0,0,0,2,60.9,0
+LEAD_00439,LinkedIn Ads,Desktop,27,3.5,5,1,1,1,1,0,1,85.5,1
+LEAD_00440,Meta Ads,Desktop,60,12.4,4,1,1,0,1,0,1,83.2,1
+LEAD_00441,Google Ads,Mobile,32,4.1,3,0,1,1,0,0,2,69.3,0
+LEAD_00442,Google Ads,Desktop,36,7.5,1,1,1,0,1,1,0,61.5,1
+LEAD_00443,Meta Ads,Mobile,65,7.2,2,1,0,1,0,0,1,84.6,0
+LEAD_00444,Google Ads,Mobile,39,12.1,1,1,1,0,0,0,1,70.3,0
+LEAD_00445,Google Ads,Mobile,38,6.6,5,1,0,0,0,0,0,59.8,0
+LEAD_00446,LinkedIn Ads,Desktop,61,6.2,4,0,1,0,0,0,0,34.6,1
+LEAD_00447,Email Marketing,Mobile,49,1.2,5,1,0,0,1,0,1,53.6,1
+LEAD_00448,Email Marketing,Mobile,67,0.3,2,1,0,1,1,0,0,53.9,1
+LEAD_00449,Google Ads,Mobile,40,3.3,2,0,0,0,1,0,1,27.9,0
+LEAD_00450,Google Ads,Mobile,30,0.6,4,0,0,1,1,1,2,77.8,1
+LEAD_00451,Google Ads,Mobile,22,14.7,3,1,0,0,0,0,0,76.1,0
+LEAD_00452,Organico,Desktop,21,1.5,5,0,0,1,0,0,0,49.5,0
+LEAD_00453,LinkedIn Ads,Desktop,45,8.6,6,0,0,0,1,0,0,49.8,0
+LEAD_00454,Meta Ads,Mobile,31,2.2,2,0,0,1,1,1,0,54.6,0
+LEAD_00455,Google Ads,Mobile,25,1.8,4,0,0,1,0,0,2,66.4,0
+LEAD_00456,Meta Ads,Mobile,26,12.3,3,0,0,0,1,1,0,63.9,0
+LEAD_00457,Meta Ads,Desktop,52,2.0,2,0,0,0,1,1,0,29.0,0
+LEAD_00458,Meta Ads,Mobile,54,2.2,4,1,0,0,1,1,0,57.6,0
+LEAD_00459,Organico,Mobile,38,0.5,4,1,1,0,0,0,1,47.5,0
+LEAD_00460,Organico,Mobile,35,5.0,8,1,1,0,0,0,0,67.0,0
+LEAD_00461,Google Ads,Desktop,50,1.5,5,0,0,0,1,0,1,34.5,0
+LEAD_00462,Google Ads,Desktop,25,4.0,4,1,0,1,1,1,0,88.0,1
+LEAD_00463,Direto,Desktop,66,4.0,4,1,1,1,0,0,1,83.0,1
+LEAD_00464,Google Ads,Desktop,34,5.7,1,1,0,0,1,0,0,41.1,1
+LEAD_00465,Google Ads,Mobile,60,6.2,2,0,1,0,1,0,0,26.6,0
+LEAD_00466,Google Ads,Mobile,48,3.3,5,0,0,1,0,0,2,74.9,0
+LEAD_00467,Google Ads,Mobile,51,1.8,4,1,0,0,0,0,0,41.4,1
+LEAD_00468,Meta Ads,Mobile,23,8.2,1,1,0,0,0,0,0,48.6,1
+LEAD_00469,Email Marketing,Mobile,39,1.7,5,1,0,0,0,0,2,65.1,1
+LEAD_00470,Meta Ads,Mobile,31,3.2,2,1,0,1,1,1,1,87.6,1
+LEAD_00471,Meta Ads,Mobile,20,2.3,4,0,0,1,0,0,0,47.9,0
+LEAD_00472,Organico,Desktop,29,8.7,6,1,0,0,1,0,0,70.1,0
+LEAD_00473,Meta Ads,Desktop,53,2.5,6,0,0,1,1,1,2,91.5,0
+LEAD_00474,LinkedIn Ads,Desktop,29,2.2,7,1,1,0,0,0,1,64.6,1
+LEAD_00475,LinkedIn Ads,Desktop,62,5.3,7,1,1,1,1,1,0,100.0,1
+LEAD_00476,Google Ads,Mobile,19,4.2,5,1,0,0,0,0,0,52.6,0
+LEAD_00477,Email Marketing,Desktop,19,0.5,10,0,0,0,0,0,0,41.5,0
+LEAD_00478,Meta Ads,Mobile,32,3.2,4,0,0,0,1,1,1,50.6,0
+LEAD_00479,Direto,Desktop,40,6.0,2,1,0,0,1,0,0,46.0,0
+LEAD_00480,Meta Ads,Mobile,46,21.8,6,1,0,0,0,0,1,100.0,1
+LEAD_00481,Direto,Tablet,34,4.5,4,0,0,0,0,0,0,29.5,0
+LEAD_00482,Email Marketing,Mobile,49,2.1,3,0,0,0,0,0,1,28.3,0
+LEAD_00483,Google Ads,Mobile,24,1.2,4,0,0,1,0,0,2,64.6,0
+LEAD_00484,Meta Ads,Desktop,47,9.3,3,1,1,1,0,0,0,84.9,1
+LEAD_00485,Direto,Mobile,45,7.6,4,1,1,0,1,0,0,58.8,0
+LEAD_00486,LinkedIn Ads,Desktop,31,1.2,3,1,0,1,0,0,0,60.6,1
+LEAD_00487,Google Ads,Desktop,61,1.0,8,0,0,0,1,0,1,45.0,0
+LEAD_00488,Organico,Desktop,47,5.7,4,1,0,1,0,0,0,78.1,1
+LEAD_00489,Meta Ads,Tablet,34,1.7,4,0,1,0,1,1,1,46.1,0
+LEAD_00490,Google Ads,Tablet,49,1.6,4,0,1,0,1,1,2,55.8,0
+LEAD_00491,Meta Ads,Mobile,63,0.7,4,1,1,0,1,1,1,63.1,0
+LEAD_00492,Google Ads,Desktop,23,1.4,7,0,0,1,0,0,1,67.2,0
+LEAD_00493,Email Marketing,Desktop,41,2.5,6,0,1,0,1,0,0,31.5,0
+LEAD_00494,Meta Ads,Desktop,23,5.9,9,1,0,0,1,0,2,93.7,1
+LEAD_00495,Email Marketing,Mobile,44,1.8,1,0,1,0,1,0,0,9.4,0
+LEAD_00496,Google Ads,Desktop,35,1.8,2,0,1,0,1,0,0,13.4,0
+LEAD_00497,Meta Ads,Tablet,41,1.5,5,0,0,0,0,0,0,24.5,0
+LEAD_00498,Google Ads,Desktop,54,2.9,5,1,0,1,1,1,1,98.7,1
+LEAD_00499,Google Ads,Mobile,41,0.9,4,1,1,0,1,0,1,48.7,0
+LEAD_00500,Google Ads,Mobile,55,3.0,3,0,0,0,1,1,0,36.0,0
+LEAD_00501,Google Ads,Mobile,51,5.5,2,1,0,0,1,1,1,69.5,1
+LEAD_00502,Organico,Desktop,57,0.1,2,0,0,1,1,1,1,58.3,0
+LEAD_00503,Google Ads,Desktop,64,0.0,1,0,0,0,1,1,0,19.0,0
+LEAD_00504,Meta Ads,Mobile,32,0.4,3,0,0,0,1,0,1,23.2,0
+LEAD_00505,Meta Ads,Mobile,28,3.5,5,1,0,0,1,1,0,65.5,0
+LEAD_00506,LinkedIn Ads,Mobile,39,8.7,5,0,0,0,0,0,0,46.1,0
+LEAD_00507,LinkedIn Ads,Mobile,41,0.0,3,1,0,0,1,1,1,57.0,0
+LEAD_00508,Meta Ads,Desktop,18,12.4,2,0,0,1,1,0,0,70.2,0
+LEAD_00509,Meta Ads,Desktop,35,0.5,4,1,0,0,0,0,0,37.5,0
+LEAD_00510,Google Ads,Mobile,61,8.3,9,1,0,0,0,0,1,90.9,0
+LEAD_00511,Direto,Mobile,29,3.0,2,1,0,0,1,0,2,57.0,0
+LEAD_00512,Google Ads,Mobile,60,4.8,4,1,0,0,1,1,0,65.4,1
+LEAD_00513,Google Ads,Tablet,45,3.2,3,1,1,0,0,0,0,41.6,0
+LEAD_00514,Google Ads,Mobile,57,2.9,7,1,0,0,1,1,0,71.7,1
+LEAD_00515,Meta Ads,Mobile,24,8.1,1,0,1,1,1,0,1,63.3,1
+LEAD_00516,Google Ads,Mobile,40,6.3,4,0,0,0,0,0,0,34.9,0
+LEAD_00517,Email Marketing,Desktop,38,3.0,5,1,1,1,0,0,0,74.0,0
+LEAD_00518,Google Ads,Desktop,51,0.5,7,0,0,0,1,0,0,29.5,0
+LEAD_00519,Organico,Desktop,28,0.6,5,0,0,0,1,1,0,36.8,0
+LEAD_00520,Google Ads,Mobile,39,7.3,6,0,0,0,0,0,0,45.9,0
+LEAD_00521,Google Ads,Mobile,59,3.4,5,0,0,1,0,0,0,55.2,0
+LEAD_00522,LinkedIn Ads,Mobile,52,3.0,3,1,1,0,0,0,0,41.0,1
+LEAD_00523,Google Ads,Desktop,46,5.1,10,0,0,1,1,1,0,95.3,1
+LEAD_00524,Email Marketing,Mobile,59,8.8,8,1,0,0,0,0,0,78.4,0
+LEAD_00525,Meta Ads,Mobile,45,4.5,3,1,1,1,0,0,0,70.5,0
+LEAD_00526,Google Ads,Desktop,35,6.5,5,1,0,0,0,0,0,59.5,1
+LEAD_00527,Direto,Desktop,31,6.5,1,0,0,0,1,0,0,23.5,0
+LEAD_00528,Google Ads,Mobile,35,2.0,6,0,0,0,0,0,0,30.0,0
+LEAD_00529,LinkedIn Ads,Mobile,45,1.4,7,1,0,0,1,1,0,67.2,0
+LEAD_00530,Google Ads,Mobile,41,7.3,3,1,1,0,1,0,0,53.9,0
+LEAD_00531,LinkedIn Ads,Desktop,25,2.1,2,1,1,0,0,0,0,34.3,0
+LEAD_00532,Google Ads,Desktop,59,10.5,4,0,1,0,0,0,0,47.5,0
+LEAD_00533,Meta Ads,Mobile,62,0.3,6,0,1,0,1,1,0,39.9,0
+LEAD_00534,Email Marketing,Mobile,25,0.3,6,1,0,0,0,0,3,74.9,1
+LEAD_00535,Direto,Desktop,21,11.8,4,0,0,0,1,1,0,66.4,0
+LEAD_00536,LinkedIn Ads,Desktop,44,4.7,8,1,0,0,0,0,2,86.1,1
+LEAD_00537,Email Marketing,Mobile,53,2.1,4,1,1,0,0,0,0,42.3,0
+LEAD_00538,LinkedIn Ads,Mobile,22,6.3,5,1,1,0,1,1,0,73.9,1
+LEAD_00539,Google Ads,Mobile,50,5.0,6,0,0,1,1,0,1,74.0,1
+LEAD_00540,Google Ads,Mobile,66,3.4,5,1,0,0,1,1,0,65.2,1
+LEAD_00541,Google Ads,Desktop,51,0.5,6,1,1,0,0,0,0,45.5,0
+LEAD_00542,Meta Ads,Desktop,47,7.5,4,1,0,0,0,0,3,88.5,1
+LEAD_00543,Meta Ads,Desktop,25,9.0,9,1,1,0,1,0,0,83.0,1
+LEAD_00544,Meta Ads,Mobile,56,0.9,2,1,0,0,0,0,0,30.7,0
+LEAD_00545,Google Ads,Desktop,64,8.6,5,1,0,0,0,0,0,65.8,0
+LEAD_00546,Organico,Mobile,43,9.5,8,1,0,0,0,0,2,100.0,1
+LEAD_00547,Google Ads,Mobile,54,3.6,3,0,0,0,0,0,2,42.8,0
+LEAD_00548,Meta Ads,Mobile,51,4.8,1,0,0,1,1,1,0,58.4,1
+LEAD_00549,Meta Ads,Mobile,24,2.2,6,0,0,0,1,0,0,30.6,0
+LEAD_00550,Email Marketing,Desktop,57,1.5,6,0,1,0,1,1,1,53.5,0
+LEAD_00551,Email Marketing,Mobile,45,5.8,9,0,1,0,1,1,0,68.4,1
+LEAD_00552,Organico,Mobile,56,8.9,2,0,1,0,0,0,0,34.7,0
+LEAD_00553,Google Ads,Mobile,56,4.8,5,1,0,1,1,1,1,100.0,0
+LEAD_00554,Meta Ads,Mobile,45,3.2,4,0,1,0,1,0,0,25.6,0
+LEAD_00555,Google Ads,Mobile,31,0.8,2,0,0,0,0,0,0,10.4,0
+LEAD_00556,Meta Ads,Mobile,67,0.2,6,0,0,1,0,0,2,69.6,0
+LEAD_00557,Meta Ads,Desktop,55,2.7,3,1,0,0,1,0,1,50.1,0
+LEAD_00558,Google Ads,Mobile,21,0.2,4,0,0,1,0,0,0,41.6,1
+LEAD_00559,Google Ads,Mobile,59,3.8,6,0,1,1,0,0,0,60.4,1
+LEAD_00560,Direto,Mobile,35,2.2,2,0,0,0,1,0,0,14.6,0
+LEAD_00561,Direto,Desktop,61,6.4,4,1,0,0,1,1,0,70.2,0
+LEAD_00562,Meta Ads,Mobile,65,1.6,3,1,1,0,1,0,0,36.8,0
+LEAD_00563,Google Ads,Mobile,42,4.0,3,1,0,0,0,0,0,44.0,1
+LEAD_00564,Google Ads,Mobile,24,3.5,3,0,1,0,1,1,0,37.5,0
+LEAD_00565,Meta Ads,Mobile,55,0.0,4,1,0,0,1,0,0,36.0,0
+LEAD_00566,Direto,Mobile,45,0.3,2,1,1,1,1,0,0,53.9,0
+LEAD_00567,Google Ads,Desktop,22,1.5,4,0,0,0,0,0,0,20.5,0
+LEAD_00568,Email Marketing,Desktop,20,9.6,7,0,1,0,0,0,0,56.8,0
+LEAD_00569,Google Ads,Mobile,61,0.7,4,0,0,0,0,0,0,18.1,0
+LEAD_00570,Direto,Desktop,48,5.6,5,1,1,1,0,0,1,91.8,1
+LEAD_00571,Meta Ads,Desktop,64,16.3,2,0,0,0,0,0,1,66.9,0
+LEAD_00572,Email Marketing,Mobile,59,7.0,3,0,0,0,0,0,0,33.0,0
+LEAD_00573,Meta Ads,Mobile,37,1.3,5,0,0,1,1,0,0,48.9,0
+LEAD_00574,Organico,Mobile,36,10.8,5,0,0,1,1,0,0,77.4,1
+LEAD_00575,Google Ads,Mobile,65,0.4,3,1,0,1,1,0,0,58.2,0
+LEAD_00576,Google Ads,Desktop,28,2.8,1,1,1,0,0,0,0,32.4,0
+LEAD_00577,Direto,Desktop,57,9.8,2,1,0,0,0,0,3,87.4,1
+LEAD_00578,LinkedIn Ads,Tablet,20,4.6,3,0,1,0,0,0,0,25.8,0
+LEAD_00579,LinkedIn Ads,Desktop,40,2.4,6,0,0,0,0,0,0,31.2,0
+LEAD_00580,Organico,Mobile,24,1.6,10,0,0,0,0,0,0,44.8,0
+LEAD_00581,Email Marketing,Mobile,40,2.1,6,1,1,0,0,0,0,50.3,0
+LEAD_00582,Google Ads,Desktop,24,3.2,6,1,1,0,1,1,0,68.6,1
+LEAD_00583,Meta Ads,Mobile,63,1.7,5,1,0,1,1,1,0,85.1,1
+LEAD_00584,Meta Ads,Desktop,51,15.6,3,0,0,0,1,1,0,73.8,0
+LEAD_00585,Organico,Desktop,59,12.2,1,0,0,0,1,0,0,40.6,0
+LEAD_00586,Meta Ads,Desktop,36,9.2,4,0,0,0,1,1,2,78.6,1
+LEAD_00587,Google Ads,Desktop,26,2.5,3,1,0,1,1,1,0,79.5,0
+LEAD_00588,Organico,Mobile,65,5.3,9,1,0,0,1,1,0,86.9,0
+LEAD_00589,Email Marketing,Desktop,35,10.5,3,1,0,0,1,1,0,78.5,1
+LEAD_00590,Meta Ads,Desktop,58,8.5,5,1,0,0,1,1,0,80.5,1
+LEAD_00591,Google Ads,Mobile,65,2.4,6,0,1,0,0,0,0,31.2,1
+LEAD_00592,Google Ads,Desktop,62,0.5,3,0,1,0,1,1,0,28.5,0
+LEAD_00593,Google Ads,Mobile,59,0.4,8,0,0,1,1,0,0,58.2,0
+LEAD_00594,Google Ads,Tablet,42,3.9,4,0,0,1,1,1,0,67.7,0
+LEAD_00595,Organico,Mobile,31,4.6,5,0,0,1,0,0,0,58.8,0
+LEAD_00596,Organico,Mobile,61,8.5,4,1,1,0,0,0,0,61.5,1
+LEAD_00597,Organico,Mobile,42,1.6,1,1,0,1,1,1,0,68.8,1
+LEAD_00598,Meta Ads,Desktop,36,0.8,1,0,0,1,1,1,0,46.4,0
+LEAD_00599,Email Marketing,Mobile,56,2.1,4,0,0,1,0,0,0,47.3,0
+LEAD_00600,Google Ads,Mobile,32,2.0,4,0,0,0,1,1,0,37.0,1
+LEAD_00601,Meta Ads,Mobile,33,0.6,7,1,0,0,1,1,0,64.8,0
+LEAD_00602,Email Marketing,Desktop,44,5.0,5,0,1,0,0,0,0,35.0,0
+LEAD_00603,Google Ads,Mobile,57,3.2,1,0,0,1,1,0,3,68.6,1
+LEAD_00604,Google Ads,Mobile,27,5.7,5,1,0,0,0,0,0,57.1,1
+LEAD_00605,LinkedIn Ads,Desktop,21,2.0,7,1,0,0,1,0,3,84.0,1
+LEAD_00606,Meta Ads,Mobile,36,1.8,3,0,0,1,1,0,0,42.4,0
+LEAD_00607,Organico,Desktop,45,2.9,6,1,0,0,1,1,0,67.7,1
+LEAD_00608,Google Ads,Mobile,38,9.4,4,1,0,0,1,0,0,64.2,1
+LEAD_00609,Organico,Desktop,64,0.2,4,1,1,1,0,0,0,61.6,0
+LEAD_00610,Meta Ads,Mobile,31,7.4,3,0,1,1,1,1,0,74.2,0
+LEAD_00611,Google Ads,Mobile,50,2.1,3,0,1,0,1,0,0,18.3,0
+LEAD_00612,Organico,Desktop,65,8.7,2,1,0,1,1,0,3,100.0,1
+LEAD_00613,Google Ads,Mobile,27,7.3,4,0,1,0,0,0,0,37.9,0
+LEAD_00614,Meta Ads,Desktop,36,1.9,4,1,1,0,0,0,0,41.7,0
+LEAD_00615,Google Ads,Mobile,47,5.3,7,1,0,0,0,0,1,73.9,1
+LEAD_00616,Google Ads,Mobile,39,0.8,6,1,0,0,1,0,1,56.4,0
+LEAD_00617,Google Ads,Mobile,20,10.2,3,0,0,0,0,0,1,52.6,1
+LEAD_00618,Google Ads,Tablet,54,2.3,4,0,0,0,1,1,0,37.9,0
+LEAD_00619,LinkedIn Ads,Mobile,58,2.7,3,0,1,1,1,0,0,45.1,0
+LEAD_00620,Google Ads,Mobile,35,5.5,5,1,0,0,1,1,0,71.5,0
+LEAD_00621,Meta Ads,Mobile,28,7.7,5,0,0,1,1,0,0,68.1,1
+LEAD_00622,Google Ads,Mobile,65,1.2,8,0,0,0,1,1,0,50.6,0
+LEAD_00623,Meta Ads,Mobile,19,4.9,5,0,0,0,1,1,0,49.7,0
+LEAD_00624,LinkedIn Ads,Desktop,29,2.2,3,0,0,1,0,0,2,63.6,1
+LEAD_00625,Google Ads,Mobile,23,2.1,1,0,0,1,1,1,2,70.3,0
+LEAD_00626,Direto,Desktop,60,5.3,4,0,0,0,1,1,0,46.9,0
+LEAD_00627,Google Ads,Mobile,57,2.2,3,1,1,0,1,0,0,38.6,0
+LEAD_00628,Email Marketing,Desktop,61,1.9,2,0,1,0,1,0,0,13.7,0
+LEAD_00629,Meta Ads,Desktop,46,8.1,1,0,1,1,0,0,0,53.3,0
+LEAD_00630,LinkedIn Ads,Mobile,47,0.5,3,1,1,1,0,0,0,58.5,0
+LEAD_00631,Organico,Tablet,19,5.1,2,1,1,0,1,1,2,78.3,1
+LEAD_00632,Meta Ads,Mobile,26,1.3,6,0,1,0,0,0,0,27.9,0
+LEAD_00633,Google Ads,Desktop,64,0.1,5,0,1,0,1,1,0,35.3,1
+LEAD_00634,Google Ads,Desktop,19,0.8,5,1,1,0,0,0,0,42.4,0
+LEAD_00635,LinkedIn Ads,Mobile,46,4.2,2,0,0,0,0,0,3,50.6,0
+LEAD_00636,Meta Ads,Mobile,50,5.6,7,0,0,0,0,0,2,64.8,0
+LEAD_00637,Meta Ads,Mobile,27,0.1,2,0,1,0,1,1,1,33.3,0
+LEAD_00638,Email Marketing,Mobile,51,0.2,5,0,0,1,1,0,0,45.6,0
+LEAD_00639,Meta Ads,Mobile,61,10.5,5,1,0,0,1,1,0,86.5,1
+LEAD_00640,Direto,Mobile,25,0.3,6,1,0,0,1,1,0,59.9,0
+LEAD_00641,Email Marketing,Mobile,54,10.1,6,1,0,1,0,0,0,99.3,1
+LEAD_00642,Organico,Desktop,50,1.2,6,0,1,1,0,0,1,62.6,0
+LEAD_00643,LinkedIn Ads,Mobile,64,6.1,5,0,0,0,1,1,0,53.3,0
+LEAD_00644,Google Ads,Mobile,23,1.7,5,1,0,0,1,0,0,45.1,0
+LEAD_00645,Google Ads,Desktop,61,8.8,3,0,0,1,0,0,0,63.4,0
+LEAD_00646,Meta Ads,Mobile,57,5.4,3,0,1,0,1,1,0,43.2,0
+LEAD_00647,Google Ads,Mobile,62,2.3,1,1,0,0,1,0,0,30.9,0
+LEAD_00648,Email Marketing,Mobile,36,0.4,1,1,0,0,0,0,0,25.2,0
+LEAD_00649,LinkedIn Ads,Desktop,49,5.9,6,0,1,0,0,0,0,41.7,0
+LEAD_00650,Meta Ads,Desktop,44,4.3,3,1,0,0,1,0,0,44.9,1
+LEAD_00651,Meta Ads,Mobile,18,0.0,2,0,0,0,0,0,2,28.0,1
+LEAD_00652,Direto,Desktop,60,0.0,4,0,0,0,0,0,0,16.0,0
+LEAD_00653,Meta Ads,Mobile,50,7.4,2,0,1,0,1,1,0,45.2,0
+LEAD_00654,Meta Ads,Desktop,57,1.4,4,1,0,1,0,0,0,65.2,0
+LEAD_00655,Meta Ads,Desktop,49,4.5,6,1,0,0,0,0,0,57.5,1
+LEAD_00656,LinkedIn Ads,Desktop,22,2.7,3,1,0,0,0,0,1,50.1,0
+LEAD_00657,Organico,Mobile,34,9.0,4,0,0,1,1,1,0,83.0,1
+LEAD_00658,Email Marketing,Mobile,25,11.2,3,0,0,0,1,1,0,60.6,0
+LEAD_00659,Email Marketing,Mobile,59,25.9,7,0,0,1,0,0,2,100.0,1
+LEAD_00660,Meta Ads,Desktop,51,0.8,4,0,0,1,0,0,1,53.4,0
+LEAD_00661,Meta Ads,Mobile,26,8.9,2,0,0,0,1,1,0,49.7,0
+LEAD_00662,Email Marketing,Desktop,40,1.4,3,1,1,0,1,1,0,51.2,0
+LEAD_00663,Meta Ads,Tablet,52,4.0,5,1,1,1,1,1,0,92.0,1
+LEAD_00664,Email Marketing,Mobile,67,3.2,7,0,0,0,0,0,1,47.6,0
+LEAD_00665,Direto,Desktop,24,0.1,4,0,1,0,1,0,0,16.3,0
+LEAD_00666,Organico,Desktop,32,12.1,6,0,0,1,1,1,0,100.0,1
+LEAD_00667,Email Marketing,Tablet,37,0.4,4,1,1,1,1,1,0,77.2,0
+LEAD_00668,Email Marketing,Tablet,67,5.2,7,1,0,1,1,0,0,88.6,1
+LEAD_00669,Email Marketing,Desktop,42,6.9,2,1,0,0,0,0,1,58.7,0
+LEAD_00670,Meta Ads,Mobile,20,7.1,2,0,0,0,1,0,2,49.3,0
+LEAD_00671,Google Ads,Desktop,63,0.7,7,0,0,0,0,0,0,30.1,0
+LEAD_00672,Meta Ads,Mobile,41,2.7,3,1,1,0,0,0,0,40.1,0
+LEAD_00673,Organico,Desktop,51,8.0,5,1,0,0,1,0,0,64.0,0
+LEAD_00674,Meta Ads,Desktop,63,1.6,4,0,0,0,1,1,2,55.8,0
+LEAD_00675,Email Marketing,Mobile,39,2.8,2,0,0,0,0,0,1,26.4,0
+LEAD_00676,Meta Ads,Desktop,28,1.4,1,0,0,0,1,1,2,43.2,0
+LEAD_00677,Organico,Mobile,65,2.8,1,1,0,0,0,0,2,52.4,0
+LEAD_00678,Google Ads,Mobile,25,9.8,3,1,0,0,1,1,0,76.4,0
+LEAD_00679,Email Marketing,Mobile,56,2.7,3,1,1,1,1,1,1,90.1,1
+LEAD_00680,Meta Ads,Desktop,60,3.7,4,0,1,0,0,0,0,27.1,0
+LEAD_00681,Google Ads,Desktop,52,2.3,5,0,0,1,0,0,0,51.9,0
+LEAD_00682,Google Ads,Desktop,66,2.8,5,0,0,1,0,0,0,53.4,1
+LEAD_00683,Email Marketing,Mobile,63,0.1,2,1,1,0,0,0,0,28.3,0
+LEAD_00684,Meta Ads,Desktop,55,1.5,6,0,0,0,0,0,1,38.5,0
+LEAD_00685,Google Ads,Desktop,25,2.6,3,1,0,0,1,1,0,54.8,0
+LEAD_00686,Direto,Mobile,54,4.5,3,0,1,1,0,0,1,60.5,1
+LEAD_00687,Organico,Mobile,44,2.7,4,1,0,0,1,0,0,44.1,0
+LEAD_00688,Direto,Mobile,45,1.9,4,1,0,1,0,0,1,76.7,0
+LEAD_00689,Meta Ads,Desktop,57,2.2,2,0,0,1,1,0,0,39.6,0
+LEAD_00690,Meta Ads,Desktop,51,1.2,5,1,0,1,0,0,0,68.6,1
+LEAD_00691,LinkedIn Ads,Desktop,49,11.6,5,0,1,0,0,0,0,54.8,0
+LEAD_00692,Meta Ads,Mobile,32,3.3,1,0,0,1,1,1,0,53.9,0
+LEAD_00693,Organico,Desktop,61,0.1,5,0,1,1,0,0,1,55.3,0
+LEAD_00694,Google Ads,Mobile,34,0.1,4,1,0,0,1,1,0,51.3,0
+LEAD_00695,Meta Ads,Mobile,50,16.2,7,1,0,0,1,1,0,100.0,1
+LEAD_00696,Google Ads,Desktop,64,1.1,5,0,0,0,1,0,1,33.3,0
+LEAD_00697,Google Ads,Mobile,63,7.4,7,1,0,0,0,0,0,70.2,0
+LEAD_00698,Google Ads,Desktop,33,0.3,4,1,0,1,0,0,0,61.9,1
+LEAD_00699,Google Ads,Mobile,46,11.4,4,1,0,0,0,0,0,70.2,1
+LEAD_00700,Direto,Desktop,26,9.3,4,0,1,1,1,1,0,83.9,0
+LEAD_00701,Google Ads,Mobile,50,3.8,4,0,1,1,0,0,1,62.4,0
+LEAD_00702,Organico,Mobile,66,0.0,2,1,0,0,0,0,1,38.0,0
+LEAD_00703,Email Marketing,Mobile,46,1.3,2,0,0,0,0,0,1,21.9,0
+LEAD_00704,Organico,Mobile,30,2.4,4,0,1,0,0,0,0,23.2,0
+LEAD_00705,Google Ads,Desktop,38,2.8,2,1,0,1,0,0,0,61.4,0
+LEAD_00706,Organico,Mobile,38,1.6,4,0,0,0,0,0,0,20.8,0
+LEAD_00707,Organico,Desktop,22,0.2,7,1,1,0,0,0,2,68.6,0
+LEAD_00708,Email Marketing,Tablet,27,4.0,2,0,0,0,0,0,0,20.0,0
+LEAD_00709,Email Marketing,Mobile,23,3.3,5,1,0,1,0,0,0,74.9,0
+LEAD_00710,Direto,Mobile,30,1.5,4,0,0,1,1,0,2,65.5,1
+LEAD_00711,Organico,Desktop,18,0.2,10,0,0,0,0,0,1,50.6,0
+LEAD_00712,Meta Ads,Tablet,37,23.5,4,0,0,0,0,0,1,96.5,0
+LEAD_00713,Organico,Desktop,64,3.0,4,1,1,0,0,0,3,75.0,1
+LEAD_00714,Google Ads,Mobile,63,6.3,5,1,1,0,0,0,0,58.9,0
+LEAD_00715,LinkedIn Ads,Desktop,25,2.7,3,0,0,0,0,0,0,20.1,0
+LEAD_00716,Google Ads,Mobile,27,0.2,7,0,0,0,1,0,0,28.6,0
+LEAD_00717,Meta Ads,Tablet,26,1.7,4,1,0,0,1,1,0,56.1,0
+LEAD_00718,Email Marketing,Tablet,66,1.7,5,0,1,0,0,0,0,25.1,0
+LEAD_00719,Organico,Mobile,58,8.2,5,1,1,0,1,0,0,64.6,0
+LEAD_00720,Meta Ads,Mobile,20,4.8,5,0,1,0,0,0,1,44.4,0
+LEAD_00721,Meta Ads,Mobile,28,1.4,1,1,0,0,0,0,0,28.2,0
+LEAD_00722,LinkedIn Ads,Mobile,29,15.5,4,1,1,0,1,1,0,97.5,0
+LEAD_00723,Meta Ads,Desktop,27,1.7,3,1,0,0,1,0,1,47.1,0
+LEAD_00724,LinkedIn Ads,Mobile,42,28.5,9,1,0,0,1,0,0,100.0,1
+LEAD_00725,Google Ads,Mobile,66,25.0,3,0,0,0,0,0,1,97.0,1
+LEAD_00726,Email Marketing,Mobile,66,1.0,6,0,0,1,0,0,3,82.0,0
+LEAD_00727,Email Marketing,Tablet,42,1.7,6,1,1,0,0,0,1,59.1,0
+LEAD_00728,Google Ads,Desktop,28,3.0,4,0,1,1,1,0,0,50.0,0
+LEAD_00729,Meta Ads,Mobile,53,4.9,1,1,0,0,0,0,2,58.7,1
+LEAD_00730,Google Ads,Mobile,56,3.4,7,1,0,0,1,0,0,58.2,1
+LEAD_00731,Organico,Tablet,43,15.7,5,0,0,0,1,0,1,77.1,0
+LEAD_00732,Meta Ads,Desktop,31,5.8,3,0,0,0,0,0,0,29.4,0
+LEAD_00733,Organico,Mobile,56,1.1,10,0,0,1,1,1,0,83.3,1
+LEAD_00734,Google Ads,Mobile,57,0.5,5,0,0,0,1,0,3,51.5,0
+LEAD_00735,Google Ads,Mobile,18,5.2,6,0,1,0,0,0,0,39.6,0
+LEAD_00736,Google Ads,Mobile,21,0.8,3,0,1,1,1,1,1,64.4,0
+LEAD_00737,Meta Ads,Mobile,47,7.0,3,0,1,0,0,0,0,33.0,0
+LEAD_00738,Organico,Desktop,29,1.7,4,0,1,0,0,0,1,31.1,0
+LEAD_00739,LinkedIn Ads,Mobile,52,1.8,1,0,1,0,1,0,2,29.4,1
+LEAD_00740,Organico,Desktop,30,0.0,2,0,0,0,1,0,0,8.0,0
+LEAD_00741,Meta Ads,Mobile,48,5.4,3,0,1,0,1,1,0,43.2,1
+LEAD_00742,Direto,Desktop,55,0.5,5,1,0,0,1,1,0,56.5,0
+LEAD_00743,Organico,Desktop,60,6.7,5,0,1,0,1,1,2,75.1,1
+LEAD_00744,Direto,Mobile,40,3.0,5,0,0,0,1,0,0,29.0,0
+LEAD_00745,Meta Ads,Mobile,21,6.9,2,1,1,1,0,0,0,73.7,0
+LEAD_00746,Google Ads,Desktop,33,3.9,3,1,0,1,1,1,0,83.7,1
+LEAD_00747,Google Ads,Mobile,24,0.4,2,0,0,1,1,1,0,49.2,0
+LEAD_00748,Organico,Mobile,39,6.5,3,0,0,1,0,0,0,56.5,0
+LEAD_00749,Google Ads,Mobile,46,0.3,4,0,0,1,1,0,0,41.9,0
+LEAD_00750,Meta Ads,Tablet,28,2.9,3,0,1,1,0,0,2,65.7,1
+LEAD_00751,Meta Ads,Mobile,50,0.9,3,1,0,0,1,0,0,34.7,1
+LEAD_00752,Organico,Desktop,46,6.3,4,1,0,0,0,0,0,54.9,1
+LEAD_00753,Organico,Mobile,56,10.9,7,1,1,0,1,1,0,95.7,1
+LEAD_00754,Google Ads,Desktop,29,3.6,1,0,0,0,0,0,0,14.8,0
+LEAD_00755,Meta Ads,Mobile,24,3.4,2,1,0,1,0,0,2,83.2,1
+LEAD_00756,Organico,Desktop,56,6.5,3,0,0,0,1,1,0,46.5,1
+LEAD_00757,Direto,Mobile,59,0.0,2,1,0,0,1,0,0,28.0,1
+LEAD_00758,Organico,Desktop,65,11.2,6,0,1,0,0,0,0,57.6,0
+LEAD_00759,LinkedIn Ads,Desktop,43,1.0,6,0,1,0,0,0,2,47.0,0
+LEAD_00760,Email Marketing,Mobile,57,18.6,3,0,1,0,1,1,3,100.0,1
+LEAD_00761,Organico,Mobile,26,6.0,9,1,0,0,1,1,0,89.0,1
+LEAD_00762,Google Ads,Mobile,58,6.7,4,0,0,0,1,0,0,36.1,0
+LEAD_00763,Organico,Mobile,51,4.8,2,0,0,0,1,1,0,37.4,0
+LEAD_00764,Organico,Desktop,62,2.9,2,0,1,0,0,0,1,26.7,0
+LEAD_00765,Organico,Mobile,30,3.8,1,0,0,0,0,0,0,15.4,1
+LEAD_00766,Meta Ads,Mobile,53,0.2,5,1,0,1,0,0,2,85.6,1
+LEAD_00767,Meta Ads,Desktop,42,4.4,3,1,0,0,0,0,1,55.2,1
+LEAD_00768,Meta Ads,Mobile,41,4.4,4,1,0,0,0,0,1,59.2,1
+LEAD_00769,Meta Ads,Mobile,61,10.0,4,0,1,1,0,0,0,71.0,1
+LEAD_00770,Google Ads,Mobile,34,3.2,4,1,0,0,1,0,0,45.6,0
+LEAD_00771,Email Marketing,Tablet,19,0.4,4,1,0,0,0,0,1,47.2,0
+LEAD_00772,Google Ads,Desktop,30,1.6,2,0,0,0,1,0,0,12.8,0
+LEAD_00773,Google Ads,Desktop,48,4.8,4,0,1,1,1,1,0,70.4,1
+LEAD_00774,Meta Ads,Mobile,46,1.2,6,1,0,0,1,0,0,47.6,0
+LEAD_00775,Organico,Desktop,67,1.5,5,0,0,0,1,1,0,39.5,0
+LEAD_00776,Meta Ads,Mobile,45,7.7,5,0,0,1,1,0,0,68.1,0
+LEAD_00777,Google Ads,Mobile,44,4.0,2,0,0,0,0,0,0,20.0,0
+LEAD_00778,Organico,Mobile,32,3.2,3,0,1,1,0,0,0,46.6,0
+LEAD_00779,Meta Ads,Mobile,48,1.7,3,0,0,0,0,0,0,17.1,0
+LEAD_00780,Direto,Mobile,57,5.9,3,0,1,0,0,0,0,29.7,1
+LEAD_00781,LinkedIn Ads,Mobile,32,1.5,3,1,0,1,1,1,1,86.5,1
+LEAD_00782,Meta Ads,Mobile,50,6.0,3,0,1,0,1,1,0,45.0,0
+LEAD_00783,Meta Ads,Mobile,37,0.3,6,1,1,1,1,1,1,94.9,0
+LEAD_00784,Email Marketing,Desktop,59,9.0,4,0,0,1,0,0,1,78.0,1
+LEAD_00785,Google Ads,Mobile,29,3.1,5,1,1,0,1,1,1,74.3,0
+LEAD_00786,Meta Ads,Desktop,54,2.6,7,1,0,1,0,0,1,90.8,1
+LEAD_00787,Meta Ads,Mobile,26,4.2,5,1,0,0,1,1,0,67.6,0
+LEAD_00788,LinkedIn Ads,Desktop,40,4.4,5,1,0,1,0,0,0,78.2,0
+LEAD_00789,Google Ads,Mobile,25,0.6,7,1,0,0,0,0,1,59.8,0
+LEAD_00790,Organico,Mobile,49,6.4,3,1,1,0,0,0,0,51.2,0
+LEAD_00791,Email Marketing,Mobile,65,1.5,2,0,0,0,1,1,0,27.5,0
+LEAD_00792,Meta Ads,Desktop,31,10.6,4,0,1,0,0,0,0,47.8,0
+LEAD_00793,Google Ads,Desktop,44,7.7,3,1,0,0,0,0,2,75.1,0
+LEAD_00794,Direto,Mobile,42,1.9,5,0,0,1,1,1,0,65.7,1
+LEAD_00795,Meta Ads,Mobile,30,7.4,4,1,1,1,1,1,0,98.2,1
+LEAD_00796,Organico,Desktop,38,2.0,3,1,1,0,0,0,2,58.0,0
+LEAD_00797,Google Ads,Desktop,62,0.5,7,0,0,0,1,0,1,39.5,0
+LEAD_00798,Meta Ads,Mobile,48,14.7,4,1,1,1,0,0,0,100.0,0
+LEAD_00799,Meta Ads,Mobile,54,4.8,3,0,1,0,0,0,2,46.4,0
+LEAD_00800,Google Ads,Mobile,65,2.7,1,0,0,0,0,0,0,12.1,0
